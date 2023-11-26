@@ -1,0 +1,21 @@
+.glass {
+  height: 100vh;
+  background-image: url(../../assets/images/background.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.glass .glass-item {
+  position: absolute;
+  width: 55%;
+  top: 25%;
+  left: 22%;
+}
+.glass .description {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+  position: absolute;
+  bottom: 0;
+}
+.glass .imgBtn {
+  width: 100%;
+}/*# sourceMappingURL=glass.css.map */
