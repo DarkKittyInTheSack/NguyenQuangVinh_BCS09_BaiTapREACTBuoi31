@@ -3,9 +3,9 @@ import './glass.scss'
 
 export default class GlassDisplay extends Component {
     state = {
-        glassURL: './images/v1.png',
-        glassName: 'GUCCI G8850U',
-        glassDesc: 'Light pink square lenses define these sunglasses, ending with amother of pearl effect tip.'
+        glassURL: '',
+        glassName: '',
+        glassDesc: ''
     }
   render() {
     const arrGlassList = [
